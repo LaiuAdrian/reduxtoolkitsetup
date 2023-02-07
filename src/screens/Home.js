@@ -25,7 +25,7 @@ const Home =()=>{
   console.log(pending,error,posts)
     return(
         <>
-        <h2>Pagina Home</h2>
+        <h2>Pagina Home commi test</h2>
         <div>
             <button onClick={()=>Creste()}>Creste</button>
              <h3>{data}</h3>
